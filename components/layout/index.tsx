@@ -40,7 +40,7 @@ export default function Layout({
           <Link href="/" className="flex items-center font-display text-2xl">
             <Image
               src="/logo.png"
-              alt="Precedent logo"
+              alt="Infinix logo"
               width="30"
               height="30"
               className="mr-2 rounded-sm"
@@ -69,15 +69,7 @@ export default function Layout({
       </main>
       <div className="absolute w-full border-t border-gray-200 bg-white py-5 text-center">
         <p className="text-gray-500">
-          A free template by{" "}
-          <a
-            className="font-medium text-gray-800 underline transition-colors"
-            href="https://twitter.com/steventey"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Steven Tey
-          </a>
+          Made with ❤️ by {"Team X"}
         </p>
       </div>
     </>

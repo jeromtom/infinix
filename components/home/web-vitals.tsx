@@ -28,7 +28,7 @@ export default function WebVitals() {
         />
       </motion.svg>
       <CountingNumbers
-        value={99}
+        value={91}
         duration={5000}
         className="absolute inset-0 mx-auto flex items-center justify-center font-display text-5xl text-green-500"
       />
