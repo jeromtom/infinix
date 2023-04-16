@@ -1,26 +1,16 @@
-<a href="https://precedent.dev">
-  <img alt="Infinix – Building blocks for your Next project" src="https://precedent.dev/api/og">
+<a href="https://github.com/jeromtom/infinix">
   <h1 align="center">Infinix</h1>
 </a>
 
 <p align="center">
-  Building blocks for your Next project
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/steventey">
-    <img src="https://img.shields.io/twitter/follow/steventey?style=flat&label=steventey&logo=twitter&color=0bf&logoColor=fff" alt="Steven Tey Twitter follower count" />
-  </a>
-  <a href="https://github.com/steven-tey/precedent">
-    <img src="https://img.shields.io/github/stars/steven-tey/precedent?label=steven-tey%2Fprecedent" alt="Infinix repo star count" />
-  </a>
+  Ecosystem to eliminate e-waste by Team X.
 </p>
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#one-click-deploy"><strong>One-click Deploy</strong></a> ·
   <a href="#tech-stack--features"><strong>Tech Stack + Features</strong></a> ·
-  <a href="#author"><strong>Author</strong></a>
+  <a href="#author"><strong>Authors</strong></a>
 </p>
 <br/>
 
@@ -85,6 +75,3 @@ https://user-images.githubusercontent.com/28986134/212368288-12f41e37-aa8c-4e0a-
 
 - [Vercel Analytics](https://vercel.com/analytics) – Track unique visitors, pageviews, and more in a privacy-friendly way
 
-## Author
-
-- Steven Tey ([@steventey](https://twitter.com/steventey))

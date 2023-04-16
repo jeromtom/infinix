@@ -82,10 +82,17 @@ const features = [
   {
     title: "Repair",
     description:
-      "Do deep component tests and find accurate component replacements.",
+      "Find an authorised repair shop near you help you do it yourself",
     demo: (
-      <div className="flex items-center justify-center space-x-20">
-        
+      <div>
+        <Link href="/repair">
+          <Image
+            src="/components/home/repair.png"
+            alt="Repair"
+            width={400}
+            height={300}
+          />
+        </Link>
       </div>
     ),
   },
@@ -95,6 +102,7 @@ const features = [
       "Buy refurbished electronic devices and sell old or damaged devices.",
     demo: (
       <div className="grid grid-flow-col grid-rows-3 gap-10 p-10">
+        <Link href="/infinix-marketplace/site/pages/index.tsx">Here</Link>
       </div>
     ),
   },
