@@ -17,9 +17,9 @@
 ## Introduction
 
 Infinix is an ecosystem to eliminate e-waste by Team X. We do it by providing:
-- [Assessment] Find in-depth information about your current electronic devices.
-- [Repair] Find an authorised repair shop near you help you do it yourself
-- [Marketplace] Buy refurbished electronic devices and sell old or damaged devices.
+- Assessment - Find in-depth information about your current electronic devices.
+- Repair - Find an authorised repair shop near you help you do it yourself
+- Marketplace - Buy refurbished electronic devices and sell old or damaged devices.
 
 ## Tech Stack + Features
 ### Frameworks
