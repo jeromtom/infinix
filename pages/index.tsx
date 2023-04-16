@@ -75,8 +75,16 @@ const features = [
     title: "Assessment",
     description:
       "Find in-depth information about your current electronic devices.",
-    demo: (
-      <div className="flex items-center justify-center space-x-20"><Link href="/assessment">Here</Link></div>
+    demo: (      <div>
+      <Link href="/repair">
+        <Image
+          src="/components/home/repair-service-icon.svg"
+          alt="Repair"
+          width={400}
+          height={300}
+        ></Image>
+      </Link>
+    </div>
     ),
   },
   {
@@ -87,11 +95,11 @@ const features = [
       <div>
         <Link href="/repair">
           <Image
-            src="/components/home/repair.png"
+            src="/components/home/repair-service-icon.svg"
             alt="Repair"
             width={400}
             height={300}
-          />
+          ></Image>
         </Link>
       </div>
     ),
@@ -101,8 +109,15 @@ const features = [
     description:
       "Buy refurbished electronic devices and sell old or damaged devices.",
     demo: (
-      <div className="grid grid-flow-col grid-rows-3 gap-10 p-10">
-        <Link href="/infinix-marketplace/site/pages/index.tsx">Here</Link>
+      <div>
+        <Link href="/repair">
+          <Image
+            src="/components/home/repair-service-icon.svg"
+            alt="Repair"
+            width={400}
+            height={300}
+          ></Image>
+        </Link>
       </div>
     ),
   },
